@@ -1,0 +1,14 @@
+﻿Anasayfa partiallara ayrılacak
+Veriler dinamik hale getirilecek
+Rezervasyon yapılacak
+Admin Paneli kurulack
+Layout yapısı kullanılacak
+Session-Admin
+401-404 sayfaları yer alacak
+Validasyon
+Crud işlemleri
+Viewbag
+Code firstte ekstra tablo ekleme
+Code firstte tablo silme
+Dashboard mini
+Code first ilişkili tablo
